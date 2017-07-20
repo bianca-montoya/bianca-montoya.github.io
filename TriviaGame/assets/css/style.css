@@ -1,0 +1,79 @@
+html {
+  background: url('../images/game_of_thronesbk.png') no-repeat center center fixed;
+  background-repeat: none;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+    background-color: transparent;
+}
+
+
+h2 {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    color: #782918;
+}
+
+.btn-primary{
+    margin-left: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #5F543F;
+    border: none;
+}
+
+.btn-primary:hover{
+    margin-left: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #7E786D;
+    border: none;
+}
+
+.jumbotron {
+    background-image: url('../images/illustration.jpg');
+    height: 300px;
+
+}
+
+.main-container {
+     padding-top: 40px;
+     background-color: #F1F0F0;
+}
+
+.body {
+    background-color: #F1F0F0;
+
+}
+
+.panel-question {
+    font-weight: bold;
+}
+.answer-div:hover {
+  background-color: #D0CABD;
+}
+
+
+.col-md-3:hover {
+  background-color: #D0CABD;
+}
+
+
+.panel-danger {
+    background-color: #666;
+    color: #ccc;
+    border: none;
+}
+
+
+footer {
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: center;
+    padding: 15px;
+}
