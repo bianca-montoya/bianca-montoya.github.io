@@ -1,0 +1,31 @@
+#WordGuessed {
+	border: 1px;
+	border-width:  thin;
+	border-color: pink;
+}
+
+.Letter {
+	border-bottom: 1px solid;
+	border-color: pink;
+	margin-left: 20px;
+	display: inline-block;
+	width: 20px;
+
+}
+
+.Hidden {
+	visibility: hidden;
+}
+
+.Show {
+	visibility: visible;
+}
+
+/*#visCheck{
+	visibility: hidden;
+}*/
+
+#wrong-guesses {
+	color: pink;
+
+}
