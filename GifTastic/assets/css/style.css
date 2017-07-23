@@ -1,0 +1,90 @@
+html {
+  background: url('../images/giftastic-bk.png') no-repeat center center fixed;
+  background-repeat: none;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+    background-color: transparent;
+}
+
+
+img {
+   width: 100%;
+    padding: 10px;
+}
+
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.col-md-12 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.panel-heading {
+    font-size: 20px;
+}
+
+.animalsbuttons {
+  padding-right: 15px;
+  padding-left: 15px;
+
+}
+
+.panel-body {
+    padding-top: 0px;
+}
+
+.p-class{
+  display:inline-block;
+  width: 31%;
+}
+
+#gifs {
+   text-align: center;    
+}
+
+.img-size {
+   height: 300px;
+}
+
+.btn {
+  margin: 5px;
+  background-color: pink;
+  color: gray;
+  border-color: pink;
+}
+
+
+.btn:hover {
+  background-color: red;
+  color: white;
+  border-color: #ff0000;
+}
+
+.btn:onclick {
+  background-color: red;
+  color: white;
+  border-color: #ff0000;
+}
+
+#theButton {
+  background-color: red;
+  color: white;
+  border-color: #ff0000;
+
+}
+
+#theButton:hover {
+  background-color: pink;
+  color: gray;
+  border-color: pink;
+
+}
+
