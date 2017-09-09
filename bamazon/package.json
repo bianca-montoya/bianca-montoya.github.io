@@ -1,0 +1,21 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "creating and updating databases with mysql and node",
+  "main": "._bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "inquirer": "^3.2.3",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql",
+    "node"
+  ],
+  "author": "Bianca Montoya",
+  "license": "ISC"
+}
