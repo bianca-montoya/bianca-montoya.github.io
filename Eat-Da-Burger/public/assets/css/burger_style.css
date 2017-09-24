@@ -1,0 +1,61 @@
+body {
+    background-color: #f2de8e;
+}
+
+.dbutton {
+    background-color: white;
+    border-radius: 7px;
+    display: inline-block;
+    float: right;
+    margin-top: -13%;
+}
+
+.addbutton {
+    background-color: white;
+    border-radius: 7px;
+    display: inline-block;
+    float: right;
+    margin-top: -13%;
+    /* margin-right: -14%; */
+}
+
+.burgername {
+    display: inline-block;
+}
+
+#notdevoured {
+    margin-top: 25%;
+}
+
+#burgerstuff {
+    margin-top: 10%;
+}
+
+#devoured {
+    margin-top: 25%;
+}
+
+#title {
+    text-align: center;
+}
+
+#burgerpic {
+    margin-left: 15%;
+}
+
+#lefttitle {
+    text-align: center;
+}
+
+#righttitle {
+    text-align: center;
+}
+
+#burgerform {
+    margin-top: 7%;
+}
+
+.devouredburger {
+    margin-bottom: 3%;
+    margin-left: 18%;
+}
