@@ -1,26 +1,14 @@
 {
   "name": "eat-da-burger",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.handlebars",
+  "description": "A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "github.com/bianca-montoya/bianca-montoya.github.io"
-  },
   "author": "Bianca Montoya",
-  "license": "ISC",
-  "homepage": "main.handlebars",
-  "dependencies": {
-    "body-parser": "^1.17.2",
-    "express": "^4.15.4",
-    "express-handlebars": "^3.0.0",
-    "handlebars-helper-css": "^0.1.0",
-    "method-override": "^2.3.9",
-    "mysql": "^2.14.1",
-    "path": "^0.12.7"
-  }
+  "license": "ISC"
 }
