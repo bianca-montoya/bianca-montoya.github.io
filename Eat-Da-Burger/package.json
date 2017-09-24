@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars",
   "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.15.4",
@@ -13,10 +17,6 @@
     "path": "^0.12.7"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
   "author": "Bianca Montoya",
   "license": "ISC"
 }
