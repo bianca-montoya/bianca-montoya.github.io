@@ -13,7 +13,7 @@ const Footer = (props) => {
       <footer>
         <hr />
         <p className='pull-center'>
-          <i className='fa fa-github' aria-hidden='true'> &copy; Bianca Montoya</i> </p>
+          <i className='fa fa-github' aria-hidden='true'> &copy; Bianca Montoya ©Copyright 2017</i> </p>
       </footer>
     </div>
   )

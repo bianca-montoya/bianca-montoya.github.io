@@ -18,11 +18,11 @@ app.use(routes);
 mongoose.Promise = global.Promise;
 // Connect to the Mongo DB
 mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://heroku_z3wfgmtn:1eq8reut426sujiihnunc167t4@ds249325.mlab.com:49325/heroku_z3wfgmtn",
+  process.env.MONGODB_URI || "mongodb://heroku_6btt3x50:9214iurk77r27nb8jhf9s8h0ag@ds249575.mlab.com:49575/heroku_6btt3x50",
   //local
 //mongodb://localhost/articlelist
 //production
-  // MONGODB_URI: mongodb://heroku_z3wfgmtn:1eq8reut426sujiihnunc167t4@ds249325.mlab.com:49325/heroku_z3wfgmtn
+  // MONGODB_URI: mongodb://heroku_6btt3x50:9214iurk77r27nb8jhf9s8h0ag@ds249575.mlab.com:49575/heroku_6btt3x50
   {
     useMongoClient: true
   }
